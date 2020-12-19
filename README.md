@@ -1,4 +1,6 @@
-# To Check out
+# This is a draft of the magic system i'm working on. Everything in here can and will probably change for the final version.
+
+# Chat suggestions to check out
 - Eternal Darkness
 - Brandon Sanderson's Mistborn series
 
