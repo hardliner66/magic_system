@@ -72,9 +72,9 @@ Higher Tiers can only be used a certain number of times per day.
 Multiple Pools of Mana. Each pool is used for a certain category of Magick.
 Pools can have different means of recharging.
 
-Physical Mana - sleep to recharge
-Spiritual Mana - pray to recharge (evil magic can poison the soul)
-Elemental Mana - drink water to recharge
+- Physical Mana - sleep to recharge
+- Spiritual Mana - pray to recharge (evil magic can poison the soul)
+- Elemental Mana - drink water, be near fire, go somewhere with wind to recharge (depending on the element)
 
 ## Magicks and forms
 
